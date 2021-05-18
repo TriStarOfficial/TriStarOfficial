@@ -1,5 +1,5 @@
 <h1 align = "center">Kanye East</h1>
-  <p  align = "center"><img src="https://i.imgur.com/VutAlIG.png"></img></p>
+  <p  align = "center"><img src="https://i.imgur.com/JfEHk5H.png"></img></p>
   <hr>
 
   
