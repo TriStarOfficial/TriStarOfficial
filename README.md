@@ -15,7 +15,7 @@
 <h1  align = "center"> Meets The Devs </h1>
 <p align = "center"> Kanye East </p>
 <p align = "center">
-  __Dev And Owner Of TriStar Hub!__
+  Dev And Owner Of TriStar Hub!
   </p>
 <hr>
 
