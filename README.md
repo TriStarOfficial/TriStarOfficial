@@ -12,6 +12,11 @@
 
 - ✅ [Discord Server](https://discord.gg/MkBuu8Xpk3)
 
+<h1  align = "center"> Meets The Devs </h1>
+<p align = "left">
+  <img src = "https://i.imgur.com/JfEHk5H" >
+</p>
+
 <h1 align = "center"> More Information </h1>
 <p align = "center">
 
