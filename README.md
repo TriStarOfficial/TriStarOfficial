@@ -13,8 +13,8 @@
 - ✅ [Discord Server](https://discord.gg/MkBuu8Xpk3)
 
 <h1  align = "center"> Meets The Devs </h1>
-<p align = "centre"> Kanye East </p>
-<p align = "centre">
+<p align = "center"> Kanye East </p>
+<p align = "center">
   Dev And Owner Of TriStar Hub!
   </p>
 <hr>
