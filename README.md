@@ -13,6 +13,7 @@
 - ✅ [Discord Server](https://discord.gg/MkBuu8Xpk3)
 
 <h1  align = "center"> Meets The Devs </h1>
+<p align = "left"> Kanye East </p>
 <p align = "left">
   <img src = "https://i.imgur.com/JfEHk5H.png" >
 </p>
