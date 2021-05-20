@@ -14,7 +14,7 @@
 
 <h1  align = "center"> Meets The Devs </h1>
 <p align = "left">
-  <img src = "https://i.imgur.com/JfEHk5H" >
+  <img src = "https://i.imgur.com/JfEHk5H.png" >
 </p>
 
 <h1 align = "center"> More Information </h1>
