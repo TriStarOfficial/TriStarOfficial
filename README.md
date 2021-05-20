@@ -1,13 +1,13 @@
 <h1 align = "center">Kanye East</h1>
-  <p  align = "center"><img src="https://i.imgur.com/JfEHk5H.png"></img></p>
+  <p  align = "center"><img src="https://i.imgur.com/VutAlIG.png"></img></p>
   <hr>
 
   
-<h1  align = "center"> Hi there, I'm Kanye East 👋 </h1>
+<h1  align = "center"> Hi there, We Are TriStar 👋 </h1>
 
-- 🎮 I am currently working on a roblox script hub!
-- 🎇 I'm looking for people to be a dev in my hub! Visit my [Discord](https://discord.gg/MkBuu8Xpk3) if you want to apply!
-- 🧵 How to reach me: **Check Links**
+- 🎮 We are a roblox script hub!
+- 🎇 We're looking for people to be a dev in my hub! Visit my [Discord](https://discord.gg/MkBuu8Xpk3) if you want to apply!
+- 🧵 How to reach us: **Check Links**
 <h1  align = "center">✔ Links ✔</h1>
 
 - ✅ [Discord Server](https://discord.gg/MkBuu8Xpk3)
