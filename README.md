@@ -1,4 +1,4 @@
-<h1 align = "center">Kanye East</h1>
+<h1 align = "center">TriStar</h1>
   <p  align = "center"><img src="https://i.imgur.com/VutAlIG.png"></img></p>
   <hr>
 
